@@ -7,7 +7,7 @@
     </head>
     <body>
         <article>
-            <h2>My first post</h2>
+            <h2><a href='/post'>My first post</a></h2>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
                 reiciendis explicabo, assumenda veritatis enim iusto quam
@@ -16,7 +16,7 @@
             </p>
         </article>
         <article>
-            <h2>My second post</h2>
+            <h2><a href='/post'>My second post</a></h2>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
                 reiciendis explicabo, assumenda veritatis enim iusto quam
@@ -25,7 +25,7 @@
             </p>
         </article>
         <article>
-            <h2>My third post</h2>
+            <h2><a href='/post'>My third post</a></h2>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
                 reiciendis explicabo, assumenda veritatis enim iusto quam

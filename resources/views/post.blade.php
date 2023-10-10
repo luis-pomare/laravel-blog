@@ -15,5 +15,6 @@
                 repudiandae veritatis.
             </p>
         </article>
+        <a href="/posts">Go back</a>
     </body>
 </html>
