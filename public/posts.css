@@ -1,0 +1,20 @@
+body {
+    background-color: #fff;
+    color: #222;
+    margin: auto;
+    max-width: 600px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #446;
+}
+
+article + article {
+    margin-top: 35px;
+    padding-top: 25px;
+    border-top: 1px solid #ccc;
+}
